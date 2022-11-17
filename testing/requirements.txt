@@ -10,3 +10,4 @@ onetimepass==1.0.1
 
 # for QR scanning (pulls in numpy)
 zbar-py==1.0.4
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
